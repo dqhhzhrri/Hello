@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+ 
 <h1 align="center">Hi Everyone! D'Qhaizhar is here 🙋‍♂️</h1>
 <h2 align="center">Computer Science Freshman | Cyber Security & Data Analysis Enthusiast</h2>
 ###
