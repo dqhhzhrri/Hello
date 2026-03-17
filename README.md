@@ -6,7 +6,6 @@
  
 <h1 align="center">Hi Everyone! D'Qhaizhar is here 🙋‍♂️</h1>
 <h2 align="center">Computer Science Freshman | Cyber Security & Data Analysis Enthusiast</h2>
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dqhhzhrri.dqhhzhrri&" alt="Visitors" />
